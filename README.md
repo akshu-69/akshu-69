@@ -1,80 +1,27 @@
-## Hi 👋 I'm Akshitha
+# Akshitha Yedla | Data Analyst
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer;Cloud+Enthusiast;Full+Stack+Engineer)
+Data Analyst with 3+ years of experience in SQL analytics, Power BI dashboards, Excel reporting, data validation, reconciliation, and stakeholder-facing reporting across financial services and consulting. I translate business requirements into reporting datasets, KPI definitions, dashboards, and automated reporting workflows.
 
-💫 **About Me**
+**Impact highlights**
+- Reduced recurring reporting time from 2 hours to 30 minutes
+- Reduced repeat reporting discrepancies by 35%
+- Cut report runtime from 45 minutes to 18 minutes via SQL optimization
+- Reduced manual data prep from 1 business day to 3 hours
 
-**Software Engineer at Dignity Health** with **4+ years of experience** in backend and full-stack development. Specialized in **cloud computing, microservices, and scalable architectures**. Currently deep-diving into **system design** and **distributed computing** to build high-performance applications.
+## Tech Stack
+`SQL` `Python` `Power BI` `DAX` `Power Query` `Excel` `Tableau` `SQL Server` `PostgreSQL` `Snowflake`
 
----
+## Experience
+- **Bank of America** — Data Analyst (Jul 2024 – Present): transaction & operational reporting, SQL datasets (CTEs, window functions), Power BI dashboards with dimensional models and DAX, reconciliation, anomaly investigation.
+- **Cognizant** — Data Analyst (Dec 2021 – Jul 2022): client reporting & operations analytics, SLA/financial/exception reporting, Power Query automation.
+- **Cognizant** — Junior Data Analyst (Jun 2021 – Nov 2021): daily operational reporting, Excel templates, Power BI dashboard maintenance.
 
-### 🎯 **Professional Highlights**
-🚀 Designing and optimizing **scalable backend services** and cloud-based applications  
-💡 Exploring **AI-driven software architectures and cloud computing**    
-🔄 Adept at full software development lifecycle and Agile methodologies  
-🌐 Specialized in **high-performance, cloud-native architectures**  
-📊 Passionate about **database optimization, API development, and automation**  
+## Featured Projects
+- [Bank Transaction Operations Analytics](https://github.com/akshu-69/bank-transaction-ops-analytics) — SQL + Python analysis of bank transactions: exception rates, SLA breaches, duplicate detection, reconciliation. Synthetic data.
+- [Retail Sales SQL Analytics](https://github.com/akshu-69/retail-sales-sql-analytics) — Star-schema retail warehouse (PostgreSQL) with 17 analytical SQL queries: CTEs, window functions, cohorts, YoY growth.
+- [Customer Churn Insights Dashboard](https://github.com/akshu-69/customer-churn-insights-dashboard) — Python analysis with interactive Plotly dashboard: KPI cards, segment breakdowns, tenure trends.
 
----
-
-### 🎓 **Education**
-📚 **Master’s in Computer Science | Clark University, Worcester**  
-
----
-
-### 🛠️ **Technical Skills**
-#### **Frontend Technologies**  
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-</div>
-
-#### **Backend & Database**  
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" height="50"/>
-</div>
-
-#### **Cloud & DevOps**  
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
-</div>
-
----
-
-### 🚀 **Featured Projects**
-#### 🏋️ **AI-Powered Resume Parsing System**
-- Designed an **NLP-based resume parser** to automate candidate screening
-- Implemented **serverless architecture** with AWS Lambda for scalability
-- **Technologies:** Python, AWS Lambda, SpaCy, REST APIs
-
-#### 🏢 **Cloud-Based Auto-Scaling System**
-- Developed an **auto-scaling infrastructure** using Terraform & Kubernetes
-- Built a **React.js dashboard** for monitoring system usage
-- **Technologies:** React.js, Kubernetes, Terraform, AWS
-
-#### 📱 **Real-Estate Web Application**
-- Integrated **real-time notifications** using Socket.IO
-- Optimized **API response time under 200ms** leveraging WebSockets
-- **Technologies:** React.js, AWS Auto-Scaling, WebSockets, MongoDB
-
----
-
-### 📫 **Let's Connect!**
-💼 Open to exciting opportunities in **Software Development, Cloud Engineering, and AI-driven solutions**  
-📩 **Email:** yedlaakshitha96@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/akshitha-yedla2000)  
-
-✨ **AI is the future, and love to be part of it!** ✨
+## Contact
+- Email: akshitha.yedla269@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akshitha269
+- Location: Boston, MA — open to relocate anywhere in the US
