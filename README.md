@@ -2,6 +2,8 @@
 
 Data Analyst with 3+ years of experience in SQL analytics, Power BI dashboards, Excel reporting, data validation, reconciliation, and stakeholder-facing reporting across financial services and consulting. I translate business requirements into reporting datasets, KPI definitions, dashboards, and automated reporting workflows.
 
+**Portfolio:** https://akshu-69.github.io/portfolio/
+
 **Impact highlights**
 - Reduced recurring reporting time from 2 hours to 30 minutes
 - Reduced repeat reporting discrepancies by 35%
